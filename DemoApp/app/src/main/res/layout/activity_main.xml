@@ -15,8 +15,6 @@
         android:layout_height="wrap_content"
         android:text="Hello Raduuuuu!"
         android:id="@+id/textView"
-        android:layout_marginRight="10dp"
-        android:layout_marginLeft="200dp"
         android:alpha="0.9"
         android:background="@color/highlighted_text_material_dark"
         android:fontFamily="@string/abc_search_hint"
@@ -24,6 +22,18 @@
         android:fontFeatureSettings="@string/app_name"
         android:textSize="30sp"
         android:textColorLink="?android:attr/colorPrimaryDark"
-        android:textColor="@color/colorAccent" />
+        android:textColor="@color/colorAccent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Click me"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:id="@+id/button"
+        android:onClick="clickFunction"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
