@@ -1,6 +1,4 @@
 ## This is how it looks like
-### Before pressing the button
+### Example of testing if a number is square or triangle number
+### Or both
 ![Image description](https://github.com/raduceaca1234/android-apps/blob/master/ImageDemo/Untitled.png)
-
-### After pressing the button
-![Image description](https://github.com/raduceaca1234/android-apps/blob/master/ImageDemo/Untitled2.png)
