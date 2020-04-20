@@ -5,3 +5,4 @@
 ## ImageDemo - working with images
 ## CurrencyConverter - converting dollars to euros
 ## HigherOrLower - the higher or lower game
+## NumberShape - test if a number is triangular or square or both
