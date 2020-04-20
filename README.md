@@ -4,3 +4,4 @@
 ## ToastDemp - displaying messages using toast
 ## ImageDemo - working with images
 ## CurrencyConverter - converting dollars to euros
+## HigherOrLower - the higher or lower game
