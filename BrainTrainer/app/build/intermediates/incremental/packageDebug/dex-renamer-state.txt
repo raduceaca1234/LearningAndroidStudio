@@ -1,0 +1,7 @@
+#Mon May 11 23:27:16 EEST 2020
+base.0=C\:\\Users\\ceaca\\Documents\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_247d44aa96625bd931093e21aaf753585e9d02e3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ceaca\\Documents\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_deeaa5126843f715b13df9594b74ee671b781b80\\classes.dex
+base.1=C\:\\Users\\ceaca\\Documents\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_deeaa5126843f715b13df9594b74ee671b781b80
+file.0=C\:\\Users\\ceaca\\Documents\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_247d44aa96625bd931093e21aaf753585e9d02e3\\classes.dex
